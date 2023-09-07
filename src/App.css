@@ -1,0 +1,9 @@
+.imageHeading{
+    font-size: 100px;
+    text-decoration: underline;
+}
+
+.imageHeading:hover{
+    color:#6932FF ;
+    cursor: pointer;
+}

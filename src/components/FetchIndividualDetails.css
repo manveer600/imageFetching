@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    text-align: center;
+}
+
+img{
+    height: 500px;
+    padding: 20px;
+}
+img:hover{
+    background-color: rgb(235, 231, 229);
+    border-radius: 40px;
+}
