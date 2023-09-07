@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/imageFetching/static/css/main.c2392190.css",
+    "main.js": "/imageFetching/static/js/main.3c9906ee.js",
+    "index.html": "/imageFetching/index.html",
+    "main.c2392190.css.map": "/imageFetching/static/css/main.c2392190.css.map",
+    "main.3c9906ee.js.map": "/imageFetching/static/js/main.3c9906ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2392190.css",
+    "static/js/main.3c9906ee.js"
+  ]
+}
